@@ -1,0 +1,638 @@
+﻿Level 1:
+http://notpron.org/notpron/levelone.htm
+Text on Image.
+Click on door.
+
+
+Level 2:
+http://notpron.org/notpron/not/level2.htm
+Finger pointing in image.
+Change URL to lvl 3
+
+
+Level 3:
+http://www.deathball.net/notpron/false/gototheothersite.htm
+"Turn me on" in title -> change false to true
++ stay positive in the gif
+
+
+Level 4:
+http://www.deathball.net/notpron/true/gototheothersite.htm
+morse code on cupboard, hint: light this place now
+click on coin
+enter: voodoo//power
+
+
+Level 5:
+http://www.deathball.net/notpron/google/shestheoneforme.htm
+"eyes like an angel smiles like a devil" what was the name of the song again?
+auf fernbedienung klicken: simple//songs
+
+
+Level 6:
+http://www.deathball.net/notpron/nothing/hesgotitall.htm
+ascii is the alternative, search for ascii code on page
+scroll down, hidden text (black on black)
+convert ascii to text 
+lilk // uorh => kill // hour 
+
+
+Level 7:
+http://www.deathball.net/notpron/sdrawkcab/tieman.htm
+twix paper (candy wrapper in source code), _old_ school, url nameit (backwards)
+old name for twix is raider => new url raider.htm
+otherwayaround => rediar.htm
+
+
+Level 8:
+http://www.deathball.net/notpron/sdrawkcab/rediar.htm
+JAY PACK => jpg
+water became wine => change something
+2 music files (2nd one 24k and can't be played)
+change to jpg and view
+inverted // levelten
+
+
+Level 9:
+http://www.deathball.net/notpron/luv2music/paulisdead.htm
+in source the span tags: turnmeon // deadman
+
+
+Level 10:
+http://www.deathball.net/notpron/wrong/roawr.htm
+other music than normal
+quickquick in source maeans music is to slow, make it faster
+link to program that can capture audio
+4,5 x speed and reverse => grey // world
+
+
+Level 11:
+http://www.deathball.net/notpron/reality/mystery.htm
+image is screen12, download screen11 in same folder
+change brightness of image => fucking // pans
+
+
+Level 12:
+http://www.deathball.net/notpron/blame/crossview.htm
+GIF me my back, switch picture,... overlay pictures
+either create GIF or use realscreen12.gif in url
+remote control moves on the picture => remote // control
+
+
+Level 13:
+http://www.deathball.net/notpron/ps/afterdeath.htm
+regions in source code correspond to letters hidden in the image, popups say the position of letters, two are marked with x => devil
+in password field "i live there" => hell
+devil//hell
+
+
+Level 14:
+http://www.deathball.net/notpron/neo/beenthere.htm
+reference to level 5
+has already been there
+french (click on remote) -> déjà // vu
+
+
+Level 15:
+http://www.deathball.net/notpron/rusty/board.htm
+hit the keys, array like notation of keys of keyboard in source ([row] key number)
+french ppl have the wrong keyboard
+random // shit
+
+
+Level 16:
+http://www.deathball.net/notpron/zoo/mznvh.htm
+"invert az" -> substitute alphabet with backwards alphabet
+verify with password hints and url => use the names from username
+number corresponds to letter, if # follows invert the letter
+
+abcdefghijklmnopqrstuvwxyz
+zyxwvutsrqponmlkjihgfedcba
+
+voodoo / simple / kill / 
+
+d 
+l => o
+l => o
+n => m
+
+m 
+f => u
+r 
+d 
+e 
+r 
+doom // murder
+
+
+Level 17:
+http://www.deathball.net/notpron/finale/pron.htm
+ufo, sun, light, nova => wrong way message (light is bit too easy)
+notpron => wrong way again
+
+
+Level 18:
+http://www.deathball.net/notpron/finale/lamp.htm
+screen18a => screen18 (shows the first note "d")
+scren18[] leads to pron
+mus4.mp3 is new music => download
+extract notes from tune => deaf.htm
+
+
+Level 19:
+http://www.deathball.net/notpron/finale/deaf.htm
+xfjse tuvgg => weird stuff with ceasar code shifted by -1
+shifted into right direction => shift alphabet
+scr34n19 => scr33n19 => -1
+
+
+Level 20:
+http://www.deathball.net/notpron/windows/something.php
+Font looks like wingdings and windows logo
+relly => really
+unfair
+
+
+Level 21:
+http://www.deathball.net/notpron/twentyone/again.htm
+image name is white, download the image, also the black image,
+download all the images named after the colors on the white one
+overlay 
+solve the maze from alpha to omega1 and omega2 for username and password
+getting // further
+
+
+Level 22:
+http://www.deathball.net/notpron/beepbeep/banana.htm
+the answer is unexpected => unexpected.htm
+
+
+Level 23:
+http://www.deathball.net/notpron/beepbeep/unexpected.htm
+the tiniest unit => pixel.htm => i'm small and red zoom me
+some letters in the image are marked by a red pixel => music.htm
+
+
+Level 24:
+http://www.deathball.net/notpron/beepbeep/music.htm
+cell phone keypad
+mno / def / wxyz / tuv / jkl / def / tuv / def / jkl
+gives nextlevel => nextlevel.htm
+
+
+Level 25:
+http://www.deathball.net/notpron/beepbeep/nextlevel.htm
+extract channels and solve anagram for answer
+=> riddle // solved
+
+
+Level 26:
+http://deathball.net/notpron/screen26/
+zipper => screen26.zip
+
+
+Level 27:
+only picture from the zip file
+change the address in level 26 from notpron to pron (more titts)
+
+
+Level 28:
+http://deathball.net/pron/screen26/
+change to screen29 in url
+
+
+Level 29:
+http://deathball.net/pron/screen29/
+rockin // boppin
+change url back to notpron and screen30, use username and password
+
+
+Level 30:
+http://deathball.net/notpron/screen30/
+right in face of creator => credits of notpron
+source of credits frame shows deathball.net/notpron/credits.htm
+look at source pictures are linked, davidb.jpg says he's not davidb
+davidm.jpg displays new url
+
+
+Level 31:
+http://deathball.net/notpron/screen30/davidandhism2.htm
+download jpg and read meta-data => hirstein (photoshop)
+
+Level 32:
+http://deathball.net/notpron/screen30/hirstein.htm
+stylishpic,... and small difference. stylesheet is not in ../style but directly in style.css, open and find answer notvaticananymore
+
+Level 33:
+http://deathball.net/notpron/screen30/notvaticananymore.htm
+keyboard has keys exchanged, type stfu on the other keyboard => kewl
+hint in code "be quiet + anakin" => kewl + anakin
+"hit the any key" => kewl + windows => type "any"
+kewlday
+
+Level 34:
+http://deathball.net/notpron/screen30/kewlday.htm
+shell symbol for fuel
+-82 == unleaded (element 82 is lead)
+=> unleadedfuel
+
+Level 35:
+http://deathball.net/notpron/screen30/unleadedfuel.htm
+google coordinates, inside a big mickey mouse head
+=> mickey//mouse
+
+Level 36:
+http://deathball.net/notpron/nomeaning/
+psd tags in source => download psd
+on the layers "evol" => love => "you are missing 2 letters"
+blend all layers "evolve"
+change folder for pr0n and url for next lever
+
+Level 37:
+http://deathball.net/notpron/nomeaning/evolve
+080135 birthday of elvis => elvis
+
+Level 38:
+http://deathball.net/notpron/nomeaning/elvis2.htm
+(c) => coffee, (d) => drink, (e) => envelope, 
+MSN emoticons (f) => flower
+
+Level 39:
+http://deathball.net/notpron/nomeaning/flower.htm
+alternative again => convert numbers to asscii (decimal notation)
+5318008 => inverted calculator => read from top => boobies
+
+Level 40:
+http://deathball.net/notpron/nomeaning/stfuandgetmetothefuckingscreen40.htm
+zoom in and see more
+
+
+Level 41:
+http://deathball.net/notpron/nomeaning/more.htm
+download meep1.mp3 => download meep2.mp3 => morsecode => genuis
+
+Level 42:
+http://deathball.net/notpron/nomeaning/genius.htm
+mid tags => mus1.mid => open in sibelius => I'm not sleeping => scottymorris
+
+Level 43:
+http://deathball.net/notpron/nomeaning/scottymorris.htm
+43small.jpg => get 43big.jpg zoom in and read verysmall
+
+Level 44:
+http://deathball.net/notpron/nomeaning/verysmall.htm
+on a stick => align lines on black spots => take left part and lay over right one => blow
+
+Level 45:
+http://deathball.net/notpron/nomeaning/blow
+40 italian (image name)
+41 spanish (on site)
+42 french (title)
+43 dutch (source end)
+44 german (on picture)
+45 danish (on picture)
+=> 46 in swedish => fyrtiosex
+
+Level 46:
+http://deathball.net/notpron/nomeaning/fyrtiosex.htm
+take 46b.jpg and overlay => read extra // fun
+take te password link from source since you can't click
+
+Level 47:
+http://deathball.net/notpron/threethreethree/
+? o_o dbm o_o Ab7 o_o
+download mytune.mp3 and reverse
+diminished chords in mp3 => gdim (?)
+
+Level 48:
+http://deathball.net/notpron/threethreethree/gbdim.htm
+GTT GCT CTT GAA AAT ACT ATT  AAT GAA translate to codons => valentine
+V   A	L   E	N   T	I    N	 E
+(use english wikipedia for genetic code)
+
+Level 49:
+http://deathball.net/notpron/threethreethree/valentine.htm
+Convert everything US to german
+911:dollarfahrenheit (password hint) => 110:eurocelsius
+
+Level 50:
+http://deathball.net/notpron/flutsch/index.htm
+light ray can be seen on the picture => laser
+
+(name whatever you see)
+Level 51 (JOKE):
+http://deathball.net/notpron/flutsch/laser.htm
+
+Level 52 (JOKE):
+http://deathball.net/notpron/flutsch/tower.htm
+
+Level 53 (JOKE):
+http://deathball.net/notpron/flutsch/tree.htm
+
+Level 50 (again):
+http://deathball.net/notpron/flutsch/road.htm
+look into top frame source code
+scroll all the way down => boring.htm
+
+Level 51:
+http://deathball.net/notpron/flutsch/boring.htm
+unfair + sees mine => cheating: xyzzy is cheat for minesweeper
+
+Level 52:
+http://deathball.net/notpron/flutsch/xyzzy.htm
+overlay map with europe map
+see car in background of the picture => use plates
+case sensitive => capitals
+
+country         plate	    capital	    pin hits
+------------------------------------------------------
+portugal	P	    Lissabonn	    N
+spanien		E	    Madrid	    Y
+frankreich	F	    Paris	    N
+irland		IRL	    Dublin	    N
+uk		GB	    London	    N
+belgien		B	    Brüssel	    Y
+niederlande	NL	    Amsterdam	    N
+luxemburg	L	    Luxemburg	    Y
+deutschland	D	    Berlin	    N
+schweiz		CH	    Zürich	    Y 
+österreich	A	    Wien	    Y
+italien		I	    Rom		    N
+tschechien	CZ	    Prag	    N
+slowakei	SK	    Bratislava	    N
+polen		PL	    Warschau	    N
+schweden	S	    Stockholm	    N
+finnland	FIN	    Helsinki	    N
+griechenland	GR	    Athen	    N
+
+take plate letters from hits:
+EBLACH => bleach.htm
+
+Level 53:
+http://deathball.net/notpron/flutsch/bleach.htm
+the leet song music256 => music1337 => last word is me
+me.htm
+
+Level 54:
+html <-- fucking right 
+=> put me.html
+
+Level 54 (forts)
+http://deathball.net/notpron/flutsch/me.html
+PICTURE HAS A "H"
+Pt = Platin	3
+Yb = Ytterbium	1   
+Er = Erbium	2
+take first x letters from each word => player.htm
+
+Level 55:
+http://deathball.net/notpron/flutsch/player.htm
+PICTURE HAS A "T" (worst.jpg)
+best.jpg has "E"
+better.jpg has "L" or "I"
+worse.jpg has "G"
+bad.jpg has "E"
+good.jpg has "N"
+
+Level 56:
+http://deathball.net/notpron/flutsch/gentle.htm
+get the gif and 56.jpg 
+overlay jpg with text from gif
+think outside the box => use letters that are not in the box formed by the four dots
+=> sounds like it is terrible (.htm)
+
+Level 57:
+http://deathball.net/notpron/flutsch/soundslikeitisterrible.htm
+a-488 area code 488
++90 regional code for cyprus and turkey
+turkey 488 => batman => batman//turkey
+
+
+Level 58:
+http://www.deathball.net/notpron/love/wrongroad.htm
+go one level back and look where it takes you ../love/poetry.htm
+
+
+Level 59:
+http://www.deathball.net/notpron/love/poetry.htm
+=> money.htm
+
+Level 60:
+http://www.deathball.net/notpron/love/money.htm
+=> for elise in mp3, elise.htm "it was not for me" => therese.htm
+
+Level 61:
+http://www.deathball.net/notpron/love/main.php
+log in with davidm//notpron
+see username christine83 and favourite color as password
+log in with chritine83//pink
+see that 11 nov 4:00am is the pic with the password
+difference the pic with any other pic => encroach
+
+Level 62:
+http://www.deathball.net/notpron/love/encroach.htm
+	    ch = h
+ristl = k 
+	    ri = pil  pil = e
+	    sti = r 
+	    ne = o
+
+just arrange right and see hero.
+
+Level 63:
+http://www.deathball.net/notpron/love/hero.htm
+write all the notes in one row in 2-tuples:
+CA is O and DE is Z are the hints
+AA AB AC AD AE AF AG BA .......
+A  B  C  D  E  F  G  H........
+decode notes, treat bound notes as one
+the answer is popular
+
+
+Level 64:
+http://www.deathball.net/notpron/love/popular.htm
+1) book may be odyssey of homer  => homer
+2) Maggi logo / Julius Maggi => maggie
+3) Willi Chevalier => beard => bart
+4) Mona Lisa => lisa
+5) ? => marge
+(Yellow)
+
+
+Level 65:
+http://www.deathball.net/notpron/love/marge.htm
+fails to proceed 
+fail at password => not authenticated (look at source) => fake//page
+
+
+Level 66:
+http://www.deathball.net/notpron/help/index.htm
+goto folder pron,... find pron with "i" on the picture (only easteregg, relevant for 80)
+all among the source go to the source of the page: all pron words and in between obscure
+
+Level 67:
+http://www.deathball.net/notpron/help/obscure.htm
+=> orion.htm (That was too easy thats why it still goes on) 
+"who am i?" in the source
+betelgeuse is the only one that is visible
+
+Level 68:
+http://www.deathball.net/notpron/help/betelgeuse.htm
+jaypack KNEW more so more info in level 8
+fileinfo in photoshop from jaypack from level 8
+notpron//rules
+
+Level 69:
+http://www.deathball.net/notpron/blub/jaypackknewmore.htm
+password hint "played"
+the song is jingle bells => jingle//bells
+
+Level 70:
+http://www.deathball.net/notpron/bummel/
+opposite is split in four parts,
+find the opposite of next => back
+back split in four parts => quarterback
+
+Level 71:
+http://www.deathball.net/notpron/bummel/quarterback.htm
+correct mistake from developEment. coorect all the other words that pop up
+ridiculous, necessary, diarrhoea then source: immediately
+
+Level 72:
+http://www.deathball.net/notpron/bummel/immediately.htm
+print and fold the tasseract like thing.
+outside from dawn till dusk, where outside means only the most outside numbers
+from dawn till dusk means order them from light to dark.
+write the numbers:
+1     ONE
+4     FOUR
+5     FIVE
+7     SEVEN
+8     EIGHT
+2     TWO
+first letter yields offset.
+
+Level 73:
+http://www.deathball.net/notpron/bummel/juhu.htm
+blurr the image and read blind.
+interpret the image as blind-letters with two lines and decode
+GO TELL ME
+WHAT I SEE
+-> nothing
+
+Level 74:
+http://www.deathball.net/notpron/bummel/nothing.htm
+F in american sign language
+image is 600x400 compared to 640x480 as all other pics but is called 1120 (= 640+480).
+look for screen1000 (600+400) -> I
+screen759 -> S
+screen309 -> H
+....
+FISH FRY
+
+Level 75:
+http://www.deathball.net/notpron/bummel/fishfry.htm
+I seek you (ICQ) -> Number hidden in image (every second pixel)
+259-973-589
+Look up ICQ profile:
+Job:       On the left side in the 1st room.,&nbsp;not pron prod.
+Interests: Art, Computers
+Languages: German, English
+About me:  I&#039;m in the SCANDALOUS group. I work in Bakerstreet, On the left side in the 1st room. I spend most time sitting around, dozens of people come by every day and play with me. Most leave frustrated, although I try not to be a spoilsport, but it seems I&amp;amp;#039;m a bit difficult to get along with.
+Keyword to my group: scandalous
+
+Level 76:
+http://www.deathball.net/notpron/bummel/scandalous
+
+Stations:
+	BAKERSTREET
+	EDGEWARE
+	EMBARKMENT
+	VICTORIA
+	GREENPARK
+	HEATHROW
+
+choose second letter
+
+-> admire -> "goto ../underground/" -> 5th station GREEN//PARK 
+
+Level 77:
+http://www.deathball.net/notpron/underground/
+mickey mouse -> lvl 35 (google coordinates)
+weird stuff -> lvl 19 (ceasar code 1/right)
+Blood on the rooftops -> song from genesis
+elvis:graceland = username:password -> rachel:bethlehem
+
+Level 78:
+http://www.deathball.net/notpron/dead/
+do the program in the source
+interpret the poses as letters -> pitiful.htm
+
+Level 79:
+http://www.deathball.net/notpron/dead/pitiful.htm
+something written in greek letters in the image: russian roulePte
+
+story in the code
+spelling mistakes in the story: curioUsity, afFraid, threatHening
+
+Storyflow: red pill (curiousity), second door(?), jump up (roman number puzzle)
+-> convert to roman numbers and complete palindrom 1//1001
+
+Level 80:
+http://www.deathball.net/notpron/jumping/index.htm
+Find all the spoilers and porn pics and get the letters
+-> pornographics
+or find some and use online crossword puzzle solver ;)
+
+Letters:
+
+p   
+o   http://deathball.net/notpron/finale/youaskedforit.jpg (17, pron.htm -> notpron.htm)
+r   http://deathball.net/notpron/finale/screen18n.jpg (18, rename)
+n   http://deathball.net/notpron/finale/screen18p.jpg (18, rename)
+o   http://deathball.net/notpron/finale/screen18s.jpg (18, rename)
+g   http://deathball.net/notpron/finale/screen18x.jpg (18, rename)
+r   
+a   http://deathball.net/notpron/beepbeep/screeeen22x.jpg (22, screen22b -> screen22a)
+p
+h   
+i   http://deathball.net/pron/help/ (66, notpron -> pron (suggested in source, guess this might work on some other levels, too lazy to try))
+c   http://deathball.net/notpron/help/68seven.jpg (68, 68one -> 68two -> ...)
+s   http://deathball.net/notpron/bummel/screen480.jpg (74, continue when it says stop)
+
+Level 81:
+http://deathball.net/notpron/jumping/pornographics.htm
+download pornographics.wav
+open with audacity
+waveform looks like iluvu
+-> iluvu.htm
+
+Level 82:
+http://deathball.net/notpron/jumping/thiswouldbelevel82andwhereislevel0.htm
+url is the hint 'whereislevel0'
+and stop being positive (spoiler for -1)
+-> levelzero.htm (without subfolder)
+
+Level 0:
+http://deathball.net/notpron/levelzero.htm
+go down further (source)
+-> levelminusone.htm
+
+Level -1:
+http://deathball.net/notpron/levelminusone.htm
+shadow doing a peace sign -> v.htm
+
+Level -2:
+http://deathball.net/notpron/v.htm
+gif image
+second layer show solution
+symptomatic.htm
+
+Level -3:
+http://deathball.net/notpron/symptomatic.htm
+picture with a lot of folders (maybe relevant / easteregg?)
+one folder blacked out -> peanut
+
+Level -4:
+http://deathball.net/notpron/peanut/
+darken + contrast, red.htm is shown
