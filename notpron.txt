@@ -636,3 +636,15 @@ one folder blacked out -> peanut
 Level -4:
 http://deathball.net/notpron/peanut/
 darken + contrast, red.htm is shown
+
+Level -5:
+http://deathball.net/notpron/peanut/red.htm
+hint: endless number id -> pi.htm
+
+Level -6: Unsolved
+http://www.deathball.net/notpron/peanut/difference.php
+hints
+<!-- you are not supposed to work with the jpg ffs! -->
+so change the picture.jpg to .zip, and there is a psd file
+so you have 2 files to unscramble
+I found 2 differences: window and dragon
